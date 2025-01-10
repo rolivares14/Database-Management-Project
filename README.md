@@ -1,3 +1,4 @@
+```
 Technologies Used: 
 PHP, HTML, CSS, MariaDB
 
@@ -11,3 +12,4 @@ Key Achievements:
 -Demonstrated proficiency in database design and SQL by developing a functional database system from conceptual models to implementation.
 -Enhanced practical knowledge of database operations including data insertion, querying, and schema creation, laying a solid foundation for real-world database administration.
 -Developed critical thinking and problem-solving skills through the construction of database queries and user interface solutions to meet project specifications.
+```
